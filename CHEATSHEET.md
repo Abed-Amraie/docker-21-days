@@ -52,3 +52,12 @@
 |-----|--------------|
 | 01  | docker run, docker ps, docker images |
 | 02  | - |
+
+---
+
+## Progress
+
+| Day | New commands |
+|-----|--------------|
+| 01  | docker --version, docker run hello-world, docker run -d -p 8080:80 nginx, docker ps, docker images |
+| 02  | docker run -it, docker run --rm, docker run -e, docker logs (-f, --tail), docker exec, docker inspect, docker stats, docker top, docker stop, docker kill, docker rm, docker system df, docker container prune, docker image prune, docker system prune |

@@ -6,7 +6,7 @@ My 21-day journey to master Docker with Spring Boot + PostgreSQL.
 
 ### Week 1 - Docker Basics
 - [x] Day 01 - Installation and first container
-- [ ] Day 02 - Basic commands, exec, logs
+- [x] Day 02 - Basic commands, exec, logs
 - [ ] Day 03 - First Dockerfile
 - [ ] Day 04 - Dockerfile for Java app
 - [ ] Day 05 - Volume
